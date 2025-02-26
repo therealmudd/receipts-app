@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Roboto", serif;
+    text-align: center;
+}
+
+form {
+    margin: 20px auto;
+}
+
+input, button {
+    margin: 5px;
+}
+
+#receiptGallery img {
+    max-width: 200px;
+    margin: 10px
+}
